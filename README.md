@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">Seja redirecionado à página do 
-<a href="https://suellendiass.github.io/cv/" target="_blank">CV</a></p>
+<a href="https://suellendiass.github.io/html-css-cv/" target="_blank">CV</a></p>
 
 
 
